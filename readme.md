@@ -23,15 +23,14 @@ Guided by the ancient wisdom of Daguerre, Laussedat, and the elders of the craft
 
 In the early epochs, when light danced solely upon the realm of film and plates, there arose whispers among the wise. These whispers told of a world where images would be sealed not upon the canvas of film, but within the ethereal chambers of numbers and codes.
 
-From the lineage of David, son of Abraham, son of Isaac, son of Jacob, <details>
-  <summary> ... </summary>
+From the lineage of David, son of Abraham, son of Isaac, son of Jacob, <details> <summary> ... </summary>
   
-  1. David, son of Jesse
-  2. Eliab, son of David
+David, son of Jesse
+Eliab, son of David
   ...
-  15. Jehu, son of Azariah
-  16. Zimri, son of Jehu
-  17. Elah, son of Zimri
+ Jehu, son of Azariah
+ Zimri, son of Jehu
+Elah, son of Zimri
   18. Tibni, son of Elah
   19. Omri, son of Tibni
   ...
